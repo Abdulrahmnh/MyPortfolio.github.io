@@ -19,7 +19,7 @@
 
   <meta charset="UTF-8">
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
+  <meta name="description" content="This is My Portfolio Website, You are Welcome!">
 
   <!-- iOS meta tags & icons -->
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -35,15 +35,98 @@
   <title>Abdulrahman's Portfolio</title>
   <link rel="manifest" href="manifest.json">
 
+  <style>
+    @media (prefers-color-scheme: light) {
+      body {
+        background-color: #FFFFFF;
+      }
+
+      .letters {
+        color: #656565;
+      }
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background-color: #242424;
+      }
+
+      .letters {
+        color: #CFD8DC;
+      }
+    }
+
+    .container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      -moz-transform: translateX(-50%) translateY(-50%);
+      -webkit-transform: translateX(-50%) translateY(-50%);
+      transform: translateX(-50%) translateY(-50%);
+      text-align: center;
+      width: 100%;
+    }
+
+    img {
+      border-radius: 50%;
+    }
+
+    span {
+      font-family: Montserrat;
+      font-size: 25px;
+      font-weight: 400;
+    }
+
+    .ml11 .text-wrapper {
+      position: relative;
+      display: inline-block;
+      padding-top: 0.1em;
+      padding-right: 0.05em;
+      padding-bottom: 0.15em;
+    }
+
+    .ml11 .line {
+      opacity: 0;
+      position: absolute;
+      left: 0;
+      height: 100%;
+      width: 3px;
+      background-color: #656565;
+      transform-origin: 0 50%;
+    }
+
+    .ml11 .line1 {
+      top: 0;
+      left: 0;
+    }
+
+    .ml11 .letter {
+      display: inline-block;
+      line-height: 1em;
+    }
+  </style>
+  </style>
+
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '4288896028';
+    var serviceWorkerVersion = '1516773377';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 
 <body>
+  <div class="container">
+    <div>
+      <img src="icon.png" alt="Avatar" height="150" width="150">
+    </div>
+    <div class="ml11">
+      <span class="text-wrapper">
+        <span class="line line1"></span>
+        <span class="letters">＜AbdulrahmanDev ⁄＞</span>
+      </span>
+    </div>
+  </div>
   <script>
     window.addEventListener('load', function (ev) {
       // Download main.dart.js
