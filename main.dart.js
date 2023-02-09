@@ -60554,8 +60554,8 @@ o=a.L(o).f
 s=this.a
 s.toString
 r=A.dO(10)
-s=n>1135||n<950?A.f4(s.d,B.K5,B.bA,p):A.e7(A.a([A.eC(p,p,n*0.01)],t.p),B.z,B.J,B.b7)
-o=o.a.b*0.01
+s=n>1135||n<950?A.f4(s.d,B.K5,B.bA,p):A.e7(A.a([A.eC(p,p,n*0.02)],t.p),B.z,B.J,B.b7)
+o=o.a.b*0.02
 q=t.p
 return A.oG(!1,!0,A.fc(p,A.f1(B.bD,A.a([A.el(A.a([s,A.eC(p,o,p),A.f4(this.a.e,p,B.bA,p),A.eC(p,o,p)],q),B.z,B.bS)],q),B.v_),B.q,p,p,new A.eL(p,p,p,r,B.m3,p,B.aM),p,400,p,p,p,p,600),p,!0,p,p,B.p,B.p,p,p,p,p,p,new A.ZE(this),p,B.p,p,p)}}
 A.ZE.prototype={
@@ -60614,10 +60614,10 @@ o=a.L(o).f
 s=A.dO(10)
 r=this.a
 r.toString
-r=n>1435||n<1350?A.m4(r.c,B.bh):A.e7(A.a([A.eC(p,p,n*0.01)],t.p),B.z,B.J,B.b7)
+r=n>1135||n<950?A.m4(r.c,B.bh):A.e7(A.a([A.eC(p,p,n*0.01)],t.p),B.z,B.J,B.b7)
 o=o.a.b*0.01
 q=t.p
-return A.fc(p,A.f1(B.bD,A.a([A.el(A.a([r,A.eC(p,o,p),A.f4(this.a.d,p,B.bA,p),A.eC(p,o,p)],q),B.z,B.bS)],q),B.v_),B.q,p,p,new A.eL(p,p,p,s,B.m3,p,B.aM),p,600,p,p,p,p,800)}}
+return A.fc(p,A.f1(B.bD,A.a([A.el(A.a([r,A.eC(p,o,p),A.f4(this.a.d,p,B.bA,p),A.eC(p,o,p)],q),B.z,B.bS)],q),B.v_),B.q,p,p,new A.eL(p,p,p,s,B.m3,p,B.aM),p,400,p,p,p,p,600)}}
 A.tq.prototype={
 aa(){return new A.Jk(A.F_(0,1),B.j)}}
 A.Jk.prototype={
