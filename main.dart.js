@@ -62811,13 +62811,13 @@ a.N(n).toString
 a.N(n).toString
 n=A.ej(30)
 s=t.p
-n=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/Flutter.png",o)],s),B.aB),o),B.b4,20,new A.bP(n,B.bi))
+n=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/Flutter.png",o)],s),B.aB),o),B.b4,20,new A.bP(n,B.bi))
 r=A.ej(30)
-r=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/JS_html_css.png",B.bj)],s),B.aB),o),B.b4,20,new A.bP(r,B.bi))
+r=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/JS_html_css.png",B.bj)],s),B.aB),o),B.b4,20,new A.bP(r,B.bi))
 q=A.ej(30)
-q=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/C_sharp.png",B.bj)],s),B.aB),o),B.b4,20,new A.bP(q,B.bi))
+q=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/C_sharp.png",B.bj)],s),B.aB),o),B.b4,20,new A.bP(q,B.bi))
 p=A.ej(30)
-return A.el(A.a([B.KH,B.KQ,new A.Hn(B.at,A.eC(A.e7(A.a([n,r,B.bA,q,A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/Git.png",B.bj)],s),B.aB),o),B.b4,20,new A.bP(p,B.bi))],s),B.B,B.M,B.aI),300,940),o)],s),B.B,B.M)}}
+return A.el(A.a([B.KH,B.KQ,new A.Hn(B.at,A.eC(A.e7(A.a([n,r,B.bA,q,A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/Git.png",B.bj)],s),B.aB),o),B.b4,20,new A.bP(p,B.bi))],s),B.B,B.M,B.aI),300,940),o)],s),B.B,B.M)}}
 A.to.prototype={
 ag(){return new A.JT(B.j)}}
 A.JT.prototype={
@@ -62826,11 +62826,11 @@ a.N(o).toString
 a.N(o).toString
 o=A.ej(30)
 s=t.p
-o=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/asp-net.png",B.bj)],s),B.aB),p),B.b4,20,new A.bP(o,B.bi))
+o=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/asp-net.png",B.bj)],s),B.aB),p),B.b4,20,new A.bP(o,B.bi))
 r=A.ej(30)
-r=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/MySql.png",B.bj)],s),B.aB),p),B.b4,20,new A.bP(r,B.bi))
+r=A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/MySql.png",B.bj)],s),B.aB),p),B.b4,20,new A.bP(r,B.bi))
 q=A.ej(30)
-return A.el(A.a([B.KX,B.v5,A.fV(p,A.e7(A.a([o,r,B.v5,A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/Firebase.png",B.bj)],s),B.aB),p),B.b4,20,new A.bP(q,B.bi))],s),B.B,B.fy,B.aI),B.t,p,p,p,p,300,p,p,p,p,700)],s),B.B,B.M)}}
+return A.el(A.a([B.KX,B.v5,A.fV(p,A.e7(A.a([o,r,B.v5,A.o0(new A.ca(B.bn,A.f3(B.I,A.a([A.j6("assets/icons/Firebase.png",B.bj)],s),B.aB),p),B.b4,20,new A.bP(q,B.bi))],s),B.B,B.fy,B.aI),B.t,p,p,p,p,300,p,p,p,p,700)],s),B.B,B.M)}}
 A.v8.prototype={
 ag(){return new A.Lw(B.j)}}
 A.Lw.prototype={
