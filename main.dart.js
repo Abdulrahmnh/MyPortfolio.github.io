@@ -62703,7 +62703,7 @@ $.ct()
 k=A.f6("Hey! Welcome to My Portfolio",A.dE(l,l,$.cB()?B.co:B.dJ,l,l,l,l,l,l,l,l,24,l,l,B.a3,l,l,!0,l,l,l,l,l,l,l,l),l,l)
 s=A.ao(a).p3.y
 s=A.wg(l,l,B.aP,l,l,!0,l,A.ea(B.mp,A.dE(l,l,s==null?l:s.b,l,l,l,l,l,l,l,l,48,l,l,B.aw,l,l,!0,l,l,l,l,l,l,l,l),"I'm "),B.ad,l,l,1,B.V)
-r=A.ahy(A.a([A.a5Y("Computer Programmer",B.cp,B.ad,B.vo),A.a5Y("Junior Flutter Developer",B.cp,B.ad,B.vo)],t.u6),!0)
+r=A.ahy(A.a([A.a5Y("Computer Programmer",B.cp,B.ad,B.vo),A.a5Y("Junior Software Developer",B.cp,B.ad,B.vo)],t.u6),!0)
 $.ct()
 q=t.p
 p=A.e7(A.a([A.f6("Contact Me",A.dE(l,l,$.cB()?B.co:B.dJ,l,l,l,l,l,l,l,l,18,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),B.d8,A.hS(l,B.lU,l,new A.ST(),l),B.d8,A.hS(l,B.lV,l,new A.SU(),l),B.d8,A.hS(l,B.lX,l,new A.SV(),l)],q),B.B,B.M,B.aI)
@@ -62737,7 +62737,7 @@ $.ct()
 s=A.f6("Hey! Welcome to My Portfolio",A.dE(j,j,$.cB()?B.co:B.dJ,j,j,j,j,j,j,j,j,18,j,j,B.a3,j,j,!0,j,j,j,j,j,j,j,j),j,j)
 r=A.ao(a).p3.y
 r=A.wg(j,j,B.aP,j,j,!0,j,A.ea(B.mp,A.dE(j,j,r==null?j:r.b,j,j,j,j,j,j,j,j,24,j,j,B.aw,j,j,!0,j,j,j,j,j,j,j,j),"I'm "),B.ad,j,j,1,B.V)
-q=A.ahy(A.a([A.a5Y("Computer Programmer",B.cp,B.bC,B.vp),A.a5Y("Junior Flutter Developer",B.cp,B.bC,B.vp)],t.u6),!0)
+q=A.ahy(A.a([A.a5Y("Computer Programmer",B.cp,B.bC,B.vp),A.a5Y("Junior Software Developer",B.cp,B.bC,B.vp)],t.u6),!0)
 $.ct()
 p=A.f6("Contact Me",A.dE(j,j,$.cB()?B.co:B.dJ,j,j,j,j,j,j,j,j,18,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j)
 o=t.p
